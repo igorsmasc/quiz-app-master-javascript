@@ -50,6 +50,7 @@ h3 {
   align-items: center;
   max-width: 80rem;
   margin: 0 auto;
+  padding: 2rem;
 }
 
 .container > * {
@@ -77,8 +78,6 @@ h3 {
 .hidden {
   display: none;
 }
-
-/* BUTTONS */
 
 /* BUTTONS */
 .btn {
